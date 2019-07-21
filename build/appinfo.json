@@ -1,0 +1,46 @@
+{
+    "targetPlatforms": [
+        "basalt"
+    ], 
+    "displayName": "colr2", 
+    "name": "colr2", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "TheBlackParrot", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "colr2", 
+    "shortName": "colr2", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": [
+            {
+                "type": "font", 
+                "name": "FONT_MANIA_73", 
+                "file": "fonts/mania.ttf", 
+                "compatibility": "2.7"
+            }, 
+            {
+                "type": "font", 
+                "name": "FONT_MANIA_40", 
+                "file": "fonts/mania.ttf", 
+                "compatibility": "2.7"
+            }, 
+            {
+                "type": "font", 
+                "name": "FONT_MANIA_24", 
+                "file": "fonts/mania.ttf", 
+                "compatibility": "2.7"
+            }
+        ]
+    }, 
+    "uuid": "9b4a3e25-fa79-4045-a079-f01d3185bf58"
+}

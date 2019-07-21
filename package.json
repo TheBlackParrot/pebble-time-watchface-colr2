@@ -1,0 +1,45 @@
+{
+  "name": "colr2",
+  "author": "TheBlackParrot",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "colr2",
+    "uuid": "9b4a3e25-fa79-4045-a079-f01d3185bf58",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "basalt"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "font",
+          "name": "FONT_MANIA_73",
+          "file": "fonts/mania.ttf",
+          "compatibility":"2.7"
+        },
+        {
+          "type": "font",
+          "name": "FONT_MANIA_40",
+          "file": "fonts/mania.ttf",
+          "compatibility":"2.7"
+        },
+        {
+          "type": "font",
+          "name": "FONT_MANIA_24",
+          "file": "fonts/mania.ttf",
+          "compatibility":"2.7"
+        }
+      ]
+    }
+  }
+}
